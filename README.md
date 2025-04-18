@@ -2,7 +2,7 @@
 
 ### Данный католог служит для хранения автоматических скриптов.
 
-#### install_drive_kkt_deb_amd64.sh[/install_install_drive_kkt_deb_amd64.sh]
+#### install_drive_kkt_deb_amd64.sh[https://github.com/Walsmit/automatic_script/blob/master/install_drive_kkt_deb_amd64.sh]
 
 **Описание:**
 
@@ -16,7 +16,9 @@
 
 Выдать права на использования скрипта
 
-`sudo chmod +x install_drive_kkt_deb_amd64.sh`
+```
+sudo chmod +x install_drive_kkt_deb_amd64.sh
+```
 
 ##### Запустить скрипт
 
@@ -24,5 +26,6 @@
 
 *Пример: ./install_drive_kkt_deb_amd64.sh 10.10.6.0*
 
-`./install_drive_kkt_deb_amd64.sh 10.10.6.0`
-
+```
+./install_drive_kkt_deb_amd64.sh 10.10.6.0
+```
