@@ -22,8 +22,8 @@ sudo dpkg -i $short_name/installer/deb/fptr10-test-util_"$short_name"_amd64.deb
 # Функция удаление установочных файлов
 func_delete_old_file()
 {
-        echo "Происходит удаление файла $1"
-        sleep 5
+        echo "Удаление файла $1"
+	sleep 2
         sudo rm -rf $1
         echo "Файл: $1 удален."
 }
