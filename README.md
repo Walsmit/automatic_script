@@ -2,7 +2,7 @@
 
 ### Данный католог служит для хранения автоматических скриптов.
 
-#### install_drive_kkt_deb_amd64.sh[https://github.com/Walsmit/automatic_script/blob/master/install_drive_kkt_deb_amd64.sh]
+#### [install_drive_kkt_deb_amd64.sh](https://github.com/Walsmit/automatic_script/blob/master/install_drive_kkt_deb_amd64.sh)
 
 **Описание:**
 
